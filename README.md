@@ -4,7 +4,19 @@ Welcome to the personal portfolio of **Ayush Dhama**, a passionate **Frontend De
 
 ##  Live Demo & Source Code
 
--  **Live Site:** [ayush-portfolio-a.netlify.app](https://ayush-portfolio-a.netlify.app/)  
+-  **Live Site:** [ayush-portfolio-a.netlify.app](https://ayush-portfolio-a.netlify.app/)
+
+---
+
+## 🛠️ Tech Stack  
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+
+![Netlify](https://img.shields.io/badge/Netlify-black?logo=netlify&logoColor=00C7B7)
 
 ---
 
